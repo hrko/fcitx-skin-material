@@ -1,0 +1,14 @@
+bingchan
+boshiamy
+cangjie
+chttrans_active
+chttrans_inactive
+dianbaoma
+erbi
+quwei
+remind_active
+shuangpin
+wanfeng
+wubi
+ziranma
+
