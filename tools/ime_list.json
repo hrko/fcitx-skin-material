@@ -1,0 +1,72 @@
+[
+    {
+        "ime-name": "bingchan",
+        "ime-char": "冰",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "boshiamy",
+        "ime-char": "無",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "cangjie",
+        "ime-char": "倉",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "chttrans_active",
+        "ime-char": "漢",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "chttrans_inactive",
+        "ime-char": "汉",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "dianbaoma",
+        "ime-char": "报",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "erbi",
+        "ime-char": "二",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "quwei",
+        "ime-char": "区",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "remind_active",
+        "ime-char": "联",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "shuangpin",
+        "ime-char": "双",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "wanfeng",
+        "ime-char": "晚",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "wubi",
+        "ime-char": "五",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "ziranma",
+        "ime-char": "自",
+        "font-family": "Noto Sans CJK SC Medium"
+    },
+    {
+        "ime-name": "chewing",
+        "ime-char": "酷",
+        "font-family": "Noto Sans CJK SC Medium"
+    }
+]
